@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    double hours, rate, pay;
+    double hours, rate, pay; //double in this statement indicates that the variables will be used to hold double precision "floating-point numbers"
 
     // Get the number hours worked.
-    count << "How many hours did you work?"
+    cout << "How many hours did you work? ";
     cin >> hours;
 
     // Get the hourly pay rate.
