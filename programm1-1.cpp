@@ -1,5 +1,6 @@
 // This programm calculates the user's pay.
 #include <iostream>
+using namespace std;
 
 int main()
 {
