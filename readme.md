@@ -6,8 +6,11 @@
 
 ## Steps for [programm1-1.cpp](https://github.com/thiagobardini/Object-Oriented-Programming-BHCC/blob/master/programm1-1.cpp)
 
-- Hierarchy Chart ![](https://i.imgur.com/zDBckRS.png)
+- Hierarchy Chart <br>
+  ![](https://i.imgur.com/zDBckRS.png)
 
-- Flowchart ![](https://i.imgur.com/55e15M7.png)
+- Flowchart <br>
+  ![](https://i.imgur.com/55e15M7.png)
 
-- Pseudocode ![](https://i.imgur.com/s6oTGAt.png)
+- Pseudocode <br>
+  ![](https://i.imgur.com/s6oTGAt.png)
