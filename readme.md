@@ -38,7 +38,7 @@ int main()
     > Because this program uses ```cout``` (see out) to display screen, the ```<iostream>```header file must be included.
 - ```using namespace std;``` declare the program will be accessing entities whose names are part of the namespace called std. Yes, even namespces have names. The reason the program needs access to the std namespace is because every name created by the ```iostream``` file is part of that namespace.
 - ```int main()```this marks a beginning of a function.
-- ```{ }`` Everything between the two braces is the content of the function main.
+- ```{ }``` Everything between the two braces is the content of the function main.
 - ```cout << "Programing is great fun!";```sthe quotation mark is called a string literal or string constant. This is the only line in the program that causes anything to be printed on the screen.
 - ```;``` the semicolon marks the end of a sentence.
 - ```return 0;``` this sends the integer value 0 back to the operating system upon the programm's completion. The value 0 usually indicates that a program executed successfully.
