@@ -5,6 +5,25 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "(lldb) Iniciar",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "insira o nome do programa, por exemplo ${workspaceFolder}/a.out",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb"
+    },
+    
+    {
+      "command": "npm start",
+      "name": "Run npm start",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
       "name": "clang++ - Build and debug active file",
       "type": "cppdbg",
       "request": "launch",

@@ -13,7 +13,7 @@
         "-g",
 				"${workspaceFolder}/*.cpp",
         "-o",
-				"${workspaceFolder}/myProgram.out"
+				"${Chapter2-2}/chapter2-2.out"
       ],
       "options": {
         "cwd": "${workspaceFolder}"
