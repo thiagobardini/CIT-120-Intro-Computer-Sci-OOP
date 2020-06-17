@@ -4,7 +4,7 @@ Programming Challenge #4
 Restaurant Bill
 Author: Thiago Bardini
 Week 2
-Version: 1.0
+Version: 1.1
 */
 
 #include <iostream>
@@ -31,12 +31,18 @@ int main()
     total=meal+tax+trip;
 
     cout << "Meal Cost is "<<"$" << mealTax;
-    cout << "/n Tax Amount is "<<"$" << tax;
-    cout << "/n Trip Amount is "<<"$" << trip;
-    cout << "/n Total Bill is "<<"$" << total;
+    cout << "\n Tax Amount is "<<"$" << tax;
+    cout << "\n Trip Amount is "<<"$" << trip;
+    cout << "\n Total Bill is "<<"$" << total;
  
     cout << endl;
     cout << "Press Enter to Continue...";
     cin.get();
     return 0;
 }
+
+<hr>
+VARIABLES
+```
+""
+```
