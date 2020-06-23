@@ -23,7 +23,10 @@ From Control Structures through Objects <br>
 
 ![](https://i.imgur.com/s6oTGAt.png)
 
-## Chapter 2 - Introduction to C++
+
+
+<br><br><br><br>
+# Chapter 2 - Introduction to C++
 
 Program 2-1
 ````
@@ -140,3 +143,57 @@ VARIABLES
 
 ![](https://i.imgur.com/OtPXRqK.png)
 
+![](https://i.imgur.com/PmRpLRj.png)
+
+![](https://i.imgur.com/T538yPX.png)
+
+![](https://i.imgur.com/LM9CRju.png)
+<hr>
+
+![](https://i.imgur.com/mhPmyJN.png)
+![](https://i.imgur.com/DZEVNel.png)
+
+<hr>
+
+![](https://i.imgur.com/XzLZ79x.png)
+
+<hr>
+
+![](https://i.imgur.com/0XiDRhJ.png)
+![](https://i.imgur.com/61cjmCX.png)
+
+<hr>
+
+![](https://i.imgur.com/YqZB2Uw.png)
+![](https://i.imgur.com/qGlUXWb.png)
+
+<hr>
+
+![](https://i.imgur.com/7s85o2L.png)
+
+![](https://i.imgur.com/y4g60tv.png)
+
+![](https://i.imgur.com/i3gDJ2O.png)
+
+// -> Line comments
+
+```
+/* 
+    Example:
+    Multi-Line Comments
+*/    
+```
+<hr>
+
+![](https://i.imgur.com/m3dqbbs.png)
+
+![](https://i.imgur.com/WUbQ2n1.png)
+
+<br><br><br><br>
+<hr>
+
+# CHAPTER 3
+### EXPRESSIONS AND INTERACTIVITY
+
+![](https://i.imgur.com/usSlmte.png)
+![](https://i.imgur.com/w9nCGOD.png)

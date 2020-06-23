@@ -37,12 +37,6 @@ int main()
  
     cout << endl;
     cout << "Press Enter to Continue...";
-    cin.get();
+    cin.get();ßß
     return 0;
 }
-
-<hr>
-VARIABLES
-```
-""
-```
