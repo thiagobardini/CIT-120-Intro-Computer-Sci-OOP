@@ -3,6 +3,7 @@
 - Starting out with C++,
 From Control Structures through Objects <br>
 9th Edition, by Tony Gaddis. Pearson
+> EXTRA Source - C++ Data Types (https://www.geeksforgeeks.org/c-data-types/)
 ## Chapter 1 - Introduction C++
 
 ![1](https://i.imgur.com/y4Ft1Mu.png)
@@ -197,3 +198,75 @@ VARIABLES
 
 ![](https://i.imgur.com/usSlmte.png)
 ![](https://i.imgur.com/w9nCGOD.png)
+
+<hr>
+
+![](https://i.imgur.com/ESm8gNy.png)
+
+![](https://i.imgur.com/rTPSQD0.png)
+![](https://i.imgur.com/ZYJkJdB.png)
+
+<hr>
+
+![](https://i.imgur.com/0xM3ofu.png)
+![](https://i.imgur.com/V9Y1Tsq.png)
+
+<hr>
+
+![](https://i.imgur.com/VqX2FDA.png)
+
+The POW function 
+pow = power (potencia)
+
+<hr>
+
+![](https://i.imgur.com/toSy3EM.png)
+![](https://i.imgur.com/srofIXy.png)
+
+<hr>
+
+![](https://i.imgur.com/Vsn2CYD.png)
+
+<hr>
+
+![](https://i.imgur.com/Vp06aCK.png)
+
+<hr>
+
+# How do you detect overflow?
+ - The rules for detecting overflow in a two's complement sum are simple:
+    -   If the sum of two positive numbers yields a negative result, the sum has overflowed.
+    -   If the sum of two negative numbers yields a positive result, the sum has overflowed.
+    -   Otherwise, the sum has not overflowed.
+
+![](https://i.imgur.com/075ttiD.png)
+
+<hr>
+
+C++ Data type
+
+![](https://i.imgur.com/l7u8WjX.png)
+![](https://i.imgur.com/d9ViSJX.png)
+![](https://i.imgur.com/pz3Aq7v.png)
+ 
+ > EXTRA Source - C++ Data Types (https://www.geeksforgeeks.org/c-data-types/)
+ 
+ <hr>
+
+![](https://i.imgur.com/EKZg9D0.png)
+
+### statisc_cast
+statisc_cast<DataType>(Value)
+
+![](https://i.imgur.com/ZqT3MEC.png)
+
+![](https://i.imgur.com/44Ord1F.png)
+
+<hr>
+
+![](https://i.imgur.com/NulEIvu.png)
+![](https://i.imgur.com/8qm6FKf.png)
+![](https://i.imgur.com/9fy5IzA.png)
+![](https://i.imgur.com/3xRbERa.png)
+
+<hr>

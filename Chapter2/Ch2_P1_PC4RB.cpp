@@ -37,6 +37,6 @@ int main()
  
     cout << endl;
     cout << "Press Enter to Continue...";
-    cin.get();ßß
+    cin.get();
     return 0;
 }
