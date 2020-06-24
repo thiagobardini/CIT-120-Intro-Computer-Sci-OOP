@@ -18,6 +18,6 @@ int main()
     pay = hours * rate;
 
     // Display the pay.
-    cout << "You have earned $"<< pauy << endl;
+    cout << "You have earned $"<< pay << endl;
     return 0;
 }
