@@ -315,4 +315,84 @@ OUTPUT
 
 Press Enter to Continue...
 ```
+
 ![](https://i.imgur.com/BDILPr4.png)
+
+- Using setprecision()
+ ![](https://i.imgur.com/VILknhU.png)
+
+ ![](https://i.imgur.com/PrhAEO9.png)
+
+ <hr>
+
+ ![](https://i.imgur.com/aAzXeNc.png)
+ ![](https://i.imgur.com/cjE2gYq.png)
+ ![](https://i.imgur.com/DLRqrYq.png)
+
+ - SHOWPOINT
+ ![](https://i.imgur.com/YjTVQLw.png)
+ ![](https://i.imgur.com/7QnGt0f.png)
+
+ <hr>
+
+ ![](https://i.imgur.com/5xtAjt7.png)
+
+ ![](https://i.imgur.com/E8z5kYv.png)
+
+<hr>
+
+![](https://i.imgur.com/R3fG4Jy.png)
+![](https://i.imgur.com/ZUFg8F2.png)
+![](https://i.imgur.com/AXJJ2OV.png)
+![](https://i.imgur.com/aUrO9y2.png)
+
+<hr>
+
+![](https://i.imgur.com/wgeJQ2u.png)
+
+![](https://i.imgur.com/3sjJ4mD.png)
+![](https://i.imgur.com/orNmyNQ.png)
+
+![](https://i.imgur.com/yHC0IYS.png)
+![](https://i.imgur.com/Pod5QlW.png)
+![](https://i.imgur.com/JqJEewM.png)
+![](https://i.imgur.com/PIKMFvX.png)
+
+<hr>
+
+![](https://i.imgur.com/SnyO5bZ.png)
+![](https://i.imgur.com/wxsKaTk.png)
+
+![](https://i.imgur.com/S0m4eie.png)
+![](https://i.imgur.com/E9fF5JI.png)
+
+<hr>
+
+- Random numbers
+![](https://i.imgur.com/EdoFDL0.png)
+![](https://i.imgur.com/26QKyMC.png)
+![](https://i.imgur.com/YGuoVwg.png)
+![](https://i.imgur.com/Mq5nb1R.png)
+![](https://i.imgur.com/jvMLiLs.png)
+![](https://i.imgur.com/q9O0FQ5.png)
+
+<hr>
+
+![](https://i.imgur.com/7IV6MF7.png)
+![](https://i.imgur.com/CnG5sb5.png)
+![](https://i.imgur.com/ic3RCQ1.png)
+
+<hr>
+
+![](https://i.imgur.com/lW4Fd2L.png)
+![](https://i.imgur.com/rQJTrWe.png)
+![](https://i.imgur.com/3uVA6AB.png)
+![](https://i.imgur.com/VJWpLli.png)
+
+<hr>
+
+## Programming Challenges
+
+![](https://i.imgur.com/0rO2mQj.png)
+![](https://i.imgur.com/X0GH1kh.png)
+
