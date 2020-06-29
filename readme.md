@@ -472,3 +472,73 @@ int main()
     return 0;
 }
 ```
+
+# Chapter 4
+
+![](https://i.imgur.com/QgYbXY5.png)
+![](https://i.imgur.com/HpFay2l.png)
+![](https://i.imgur.com/g9qJN7l.png)
+
+<hr>
+
+## IF statement 
+- if (expreesion) statement;
+
+![](https://i.imgur.com/DT7ySzC.png)
+![](https://i.imgur.com/GbkmOXM.png)
+
+> P.S.: (const) Ao modificar uma declaração de dados, a palavra-chave const especifica que o objeto ou a variável não é modificável. 
+
+![](https://i.imgur.com/3qXszlp.png)
+> IF doesn't apply SEMICOLON
+![](https://i.imgur.com/pKP04sH.png)
+
+<hr>
+
+![](https://i.imgur.com/UdyE64T.png)
+![](https://i.imgur.com/ykm3572.png)
+
+![](https://i.imgur.com/EsTXOpK.png)
+![](https://i.imgur.com/nGiaUQW.png)
+
+![](https://i.imgur.com/kRNVXyn.png)
+![](https://i.imgur.com/hVcl9Oj.png)
+![](https://i.imgur.com/W5RQJCW.png)
+![](https://i.imgur.com/8oOv0VH.png)
+![](https://i.imgur.com/5NxakLT.png)
+
+<hr>
+
+![](https://i.imgur.com/zNoSu6B.png)
+![](https://i.imgur.com/TEGF648.png)
+
+![](https://i.imgur.com/YkWMqtA.png)
+![](https://i.imgur.com/HB3ZXZA.png)
+
+<hr> 
+
+![](https://i.imgur.com/Ca2hQh8.png)
+
+![](https://i.imgur.com/0grHq3R.png)
+![](https://i.imgur.com/JOdIxRo.png)
+
+![](https://i.imgur.com/MoxyNf4.png)
+![](https://i.imgur.com/e7xTbrU.png)
+![](https://i.imgur.com/rY4AZK6.png)
+![](https://i.imgur.com/noVtK5M.png)
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+![]()
+![]()
+![]()
