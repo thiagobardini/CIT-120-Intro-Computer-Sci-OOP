@@ -632,10 +632,19 @@ int main()
 ![](https://i.imgur.com/z0VwkbE.png)
 ![](https://i.imgur.com/ZwvftlH.png)
 
-![]()
-![]()
-![]()
-![]()
+# CHAPTER 5
+ 
+### POSTFIX MODE and PREFIX MODE
+- ++num; // use prefix ++ (plus plus) to increment num
+- num++; // use prefix ++ (plus plus) to increment num
+- num--; // use prefix -- (minus minus) to DECREMENT num (DIMINUIR)
+- --num; // use prefix -- (minus minus) to INCREMENT num (ADICIONAR)
+![](https://i.imgur.com/JacILms.png)
+![](https://i.imgur.com/VttK29t.png)
+
+![](https://i.imgur.com/2HEBpDk.png)
+![](https://i.imgur.com/UNuwoZW.png)
+
 ![]()
 ![]()
 ![]()
