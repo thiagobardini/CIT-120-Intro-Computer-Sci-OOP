@@ -62,8 +62,8 @@ int main()
     cout << "There will be " << numTeams << " teams with "
          << leftOver << " players left over.\n";
     
-    cout << endl;
-    cout << "Press Enter to Continue...";
-    cin.get();
-    return 0;
+        cout << endl;
+        cout << "Press Enter to Continue...";
+        cin.get();
+        return 0;
 }
