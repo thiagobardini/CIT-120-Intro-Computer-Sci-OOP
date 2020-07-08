@@ -680,6 +680,87 @@ int main()
 ![](https://i.imgur.com/cTMUMsP.png)
 
 ![](https://i.imgur.com/9Tb7T6W.png)
-![](https://i.imgur.com/IqEgy3N.png)
+![](https://i.imgur.com/b0O30Ec.png)
+````
+#include <iostream>
+#include<iomanip>
+using namespace std;
+
+int main()
+{
+    int totalDays;
+    double pay, totalPay = 0;
+    
+    pay = 1;
+
+    
+    do
+    {
+        cout << "How many days did the employee work? ";
+        cin >> totalDays;
+        
+        if (totalDays < 0 || totalDays > 31)
+            cout << "ERROR: Your number must be greater than zero or less than or equal to 31" << endl;
+        break;
+    } while (totalDays < 0 || totalDays > 31);
+    
+    // Showing pay for each day
+    cout << "DAY\t\t US$" << endl;
+    cout << "-----------------" << endl;
+  
+    
+    // Showing the output in dollars
+    cout <<  fixed <<  showpoint << setprecision(2);
+    for ( int i = 1 ; i <= totalDays; i++)
+    {
+        cout << i << "\t\t $" << pay << endl;
+        // Total pay
+        totalPay += pay;
+        // Daily pay
+        pay += pay;
+    }
+    
+    cout << endl;
+    // Display the total pay
+    cout << "Total pay for " << totalDays << " days is $" << totalPay << endl;
+         
+    cout << endl;
+    cout << "Press Enter to Continue...";
+    cin.get();
+    return 0;
+}
+````
+OUTPUT
+````
+How many days did the employee work? 10
+DAY		 US$
+-----------------
+1.00		 $1.00
+2.00		 $2.00
+3.00		 $4.00
+4.00		 $8.00
+5.00		 $16.00
+6.00		 $32.00
+7.00		 $64.00
+8.00		 $128.00
+9.00		 $256.00
+10.00		 $512.00
+
+Total pay for 10 days is $1023.00
+
+Press Enter to Continue...Program ended with exit code: 0
+`````
+
+![](https://i.imgur.com/Ppdo0nI.png)
+
+![](https://i.imgur.com/Ze2CSBT.png)
+![](https://i.imgur.com/lNtFgLd.png)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 ![]()
 ![]()
