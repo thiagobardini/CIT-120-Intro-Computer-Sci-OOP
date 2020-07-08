@@ -755,10 +755,35 @@ Press Enter to Continue...Program ended with exit code: 0
 
 ![](https://i.imgur.com/Ze2CSBT.png)
 ![](https://i.imgur.com/lNtFgLd.png)
-![]()
-![]()
-![]()
-![]()
+
+![](https://i.imgur.com/PjBlqbI.png)
+![](https://i.imgur.com/pcB2dMx.png)
+
+![](https://i.imgur.com/VjkfWws.png)
+![](https://i.imgur.com/4P20zQP.png)
+
+![](https://i.imgur.com/GMC34Hq.png)
+![](https://i.imgur.com/cE3EaU9.png)
+
+### Using FILES
+![](https://i.imgur.com/HJqgWS3.png)
+
+![](https://i.imgur.com/rSj9tUF.png)
+![](https://i.imgur.com/qeJ5Eo1.png)
+
+### FILE -> WHILE
+![](https://i.imgur.com/sZoc8b9.png)
+![](https://i.imgur.com/wJuC2cB.png)
+
+![](https://i.imgur.com/aor86SR.png)
+![](https://i.imgur.com/qan1BRY.png)
+
+![](https://i.imgur.com/pWufFT2.png)
+![](https://i.imgur.com/HjrlKK2.png)
+
+
+# CHAPTER 6
+
 ![]()
 ![]()
 ![]()
