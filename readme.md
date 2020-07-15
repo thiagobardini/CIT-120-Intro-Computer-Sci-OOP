@@ -876,8 +876,8 @@ Press Enter to Continue...Program ended with exit code: 0
 ![](https://i.imgur.com/C5k335g.png)
 ![](https://i.imgur.com/q6X5WKs.png)
 
-### Default Arguments
-![](https://i.imgur.com/312RbMw.png)
+### Default  Arguments 
+![](https://i.imgur.com/zMxXk03.png)
 
 ![](https://i.imgur.com/SZ2QjPl.png)
 ![](https://i.imgur.com/erSs01J.png)
