@@ -891,9 +891,13 @@ Press Enter to Continue...Program ended with exit code: 0
 ![](https://i.imgur.com/fbHP1qn.png)
 ![](https://i.imgur.com/ioRBt57.png)
 
-![]()
-![]()
-![]()
+###  The EXIT() Function
+![](https://i.imgur.com/2y4k6Se.png)
+
+### Stubs and Drivers
+![](https://i.imgur.com/tciSj2v.png)
+![](https://i.imgur.com/eJBBYMh.png)
+
 ![]()
 ![]()
 ![]()
